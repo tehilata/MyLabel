@@ -1,0 +1,16 @@
+PODS:
+  - MyLabel (0.1.0)
+
+DEPENDENCIES:
+  - MyLabel (from `../`)
+
+EXTERNAL SOURCES:
+  MyLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MyLabel: 2495d15e50373cb10e62f0d9a9c9306468938872
+
+PODFILE CHECKSUM: 023ed7e8432c34f3ff556e89c3ee8ce24ff8c9d5
+
+COCOAPODS: 1.0.1
